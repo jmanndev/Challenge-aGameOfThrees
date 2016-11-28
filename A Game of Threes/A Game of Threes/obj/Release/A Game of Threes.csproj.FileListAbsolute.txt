@@ -1,0 +1,6 @@
+D:\Users\Jono\Documents\GitHub\Challenge-aGameOfThrees\A Game of Threes\A Game of Threes\bin\Release\A Game of Threes.exe.config
+D:\Users\Jono\Documents\GitHub\Challenge-aGameOfThrees\A Game of Threes\A Game of Threes\bin\Release\A Game of Threes.exe
+D:\Users\Jono\Documents\GitHub\Challenge-aGameOfThrees\A Game of Threes\A Game of Threes\bin\Release\A Game of Threes.pdb
+D:\Users\Jono\Documents\GitHub\Challenge-aGameOfThrees\A Game of Threes\A Game of Threes\obj\Release\A Game of Threes.csprojResolveAssemblyReference.cache
+D:\Users\Jono\Documents\GitHub\Challenge-aGameOfThrees\A Game of Threes\A Game of Threes\obj\Release\A Game of Threes.exe
+D:\Users\Jono\Documents\GitHub\Challenge-aGameOfThrees\A Game of Threes\A Game of Threes\obj\Release\A Game of Threes.pdb

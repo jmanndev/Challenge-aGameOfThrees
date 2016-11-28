@@ -6,7 +6,7 @@ namespace A_Game_of_Threes
     {
         static void Main(string[] args)
         {
-            int value = 321231241;
+            int value = 20000568;
 
             int[] moveOptions = { 0, -1, 1 };
 
